@@ -3,7 +3,7 @@ games {'gta5'}
 lua54 'yes'
 
 author 'Vardkor'
-description 'Menu Wipe Ox'
+description 'Script Rich Presence'
 version '1.0.0'
 
 shared_scripts {
